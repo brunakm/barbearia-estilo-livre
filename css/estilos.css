@@ -1,0 +1,30 @@
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/barbearia.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+}
+
+.banner h1,
+.banner p {
+    text-shadow: 2px 2px 5px black;
+}
+
+.botao-personalizado {
+    background-color: #DAA520;
+    color: white;
+    border: none;
+}
+
+.botao-personalizado:hover {
+    background-color: #B8860B;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+}
