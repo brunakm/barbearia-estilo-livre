@@ -1,5 +1,9 @@
 # Barbearia Estilo Livre 💈
 
+<p align="center">
+  <img src="assets/barbearia.png" alt="Preview do projeto" width="800">
+</p>
+
 Projeto desenvolvido como atividade acadêmica com o objetivo de criar um site institucional responsivo para uma barbearia, apresentando serviços, informações da empresa e formas de contato.
 
 ## 📋 Sobre o Projeto
